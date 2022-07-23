@@ -29,6 +29,7 @@ class AuthorizationVC: UIViewController {
     }
 
     func setupUI() {
+        // какой-то код 
         loginView.layer.cornerRadius = 8
         passwordView.layer.cornerRadius = 8
         
